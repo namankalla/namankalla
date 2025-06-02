@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on one of these repos prolly.<br>⚡ Fun fact I make Music.
+🔭 I’m currently working on one of these repos prolly.<br>⚡ Fun fact I make Music too.
 
 
 ## 🌐 Socials:
