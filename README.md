@@ -85,7 +85,7 @@
 
 ## ✨ Visitor Count  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=namankalla&label=Profile%20Views&icon=2&color=9" />
+  <img src="https://profile-counter.glitch.me/namankalla/count.svg" alt="Visitor Count" />
 </p>
 
 ---
