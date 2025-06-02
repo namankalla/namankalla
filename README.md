@@ -1,19 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Hey!+I'm+Naman+Kalla+%F0%9F%91%8B;A+Developer+%E2%9A%99%EF%B8%8F+%7C+Music+Producer+%F0%9F%8E%B5;Crafting+Code+%2B+Beats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Hey!+I'm+Naman+Kalla+%F0%9F%91%8B;A+Developer+%E2%9A%99%EF%B8%8F+%7C+Music+Producer+%F0%9F%8E%B5;Crafting+Code+%2B+Music" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coder-gif"/>
-</p>
-
 ---
 
-## 💫 About Me  
-🎓 CS Undergrad | 📍Jodhpur, India  
-🔭 Currently building: a **Financial Tracking App** called **Fintro**  
-🎵 Also making music on the side — **Code by day, Beats by night.**  
-🌱 Learning React Native, Java backend, and better sound design.  
-📚 Trying to balance dev life and music life like a true multitasker.  
+# 💫 About Me  
+🔭 I’m currently working on one of these repos, prolly.  
+🎵 Fun fact: I make Music.
 
 ---
 
