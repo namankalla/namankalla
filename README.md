@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Hey!+I'm+Naman+Kalla+%F0%9F%91%8B;A+Developer+%E2%9A%99%EF%B8%8F+%7C+Music+Producer+%F0%9F%8E%B5;Crafting+Code+%2B+Music" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Hey!+I'm+Naman+Kalla+%F0%9F%91%8B;Welcome+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 ---
 
@@ -91,5 +91,5 @@
 ---
 
 > 🎧 *“If I’m not coding, I’m probably making music.”*  
-> — Naman Kalla
+> — Naman D. Kalla
 
